@@ -1,6 +1,7 @@
 # Hand Gesture Recognition using Neural Networks
 
 This project focuses on recognizing hand gestures using neural networks.
+
 The **Dataset** consists of a total of 5243 hand gesture images which were further sub divided into **9** classes: call_me, fingers_crossed, okay, paper, peace, rock, rock_on, scissor, thumbs up.
 
 The process involves:
